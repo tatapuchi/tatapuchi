@@ -1,5 +1,7 @@
 ### Greetings all 👋
 
+- **Languages:** `Java`, `C#`, `PowerShell`
+
 - 🔭 I’m currently working on `Idle Developer`
 - 🌱 I’m currently learning `UWP`, `tModLoader` & `Microsoft's QDK`
 
