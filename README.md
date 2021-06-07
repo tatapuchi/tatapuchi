@@ -1,3 +1,9 @@
+
+[![0xB01b's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatapuchi)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
 ### Greetings all 👋
 
 - **Languages:** `Java`, `C#`, `PowerShell`
@@ -16,8 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![0xB01b's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatapuchi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Regards,
