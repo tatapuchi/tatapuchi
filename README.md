@@ -1,5 +1,5 @@
 
-[![0xB01b's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatapuchi&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
+[![0xB01b's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatapuchi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
