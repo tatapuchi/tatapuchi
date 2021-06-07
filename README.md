@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 ### 0xB01b
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatapuchi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatapuchi&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
