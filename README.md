@@ -8,10 +8,15 @@
 
 ```csharp
 
-namespace Sussy.Boy 
+namespace Sussy.Boy.Core 
 {
 
-
+  internal class Vib 
+  {
+    
+  
+  
+  }
 
 }
 
