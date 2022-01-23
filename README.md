@@ -9,7 +9,8 @@ namespace Sussy.Boy.Core
 
   internal class Vib 
   {
-    
+    private string _name = "Vibhor";
+    public string Name {get => _name;}
   
   
   }
