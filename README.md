@@ -4,7 +4,7 @@
 using Human;
 using Human.Emotion;
 
-namespace Sussy.Boy.Core 
+namespace Vib.Core 
 {
 
   internal class Vib 
