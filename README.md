@@ -9,6 +9,9 @@ namespace Vib.Core
 
   internal class Vib 
   {
+    
+    private static readonly Vib vibhor = new Vib();
+    
     private string _name = "Vibhor";
     public string Name {get => _name;}
     
@@ -16,6 +19,8 @@ namespace Vib.Core
     public int Name {get => _age;}
   
   
+    private Vib(){}
+    
   }
 
 }
