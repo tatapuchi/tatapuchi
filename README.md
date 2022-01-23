@@ -1,6 +1,9 @@
 
 ```csharp
 
+using Human;
+using Human.Emotion;
+
 namespace Sussy.Boy.Core 
 {
 
