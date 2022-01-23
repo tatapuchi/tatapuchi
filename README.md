@@ -13,7 +13,8 @@ namespace Vib.Core
     private static readonly Vib Vibhor = new Vib();
     
     #region Properties
-    private string _name = "Vibhor";
+    //Will change last name eventually
+    private string _name = "Vibhor Singh";
     public string Name {get => _name;}
     
     private int _age = 17;
