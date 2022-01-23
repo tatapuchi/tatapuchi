@@ -11,6 +11,9 @@ namespace Sussy.Boy.Core
   {
     private string _name = "Vibhor";
     public string Name {get => _name;}
+    
+    private int _age = 17;
+    public int Name {get => _age;}
   
   
   }
